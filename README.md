@@ -1,8 +1,8 @@
-# Eruda Plugin for Inertia Svelte
+# Minimalistic Eruda Plugin for Inertia
 
 ```typescript
 // resources/js/app.ts
-import { initEruda } from '@/devtool/eruda-svelte';
+import { initEruda } from '@/devtool/eruda-[lang]';
 
 createInertiaApp({
  ...
